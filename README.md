@@ -1,4 +1,4 @@
-# Ejercicios y teoría del curso de IA impartido por tajamar
+# Ejercicios y teoría del curso de IA impartido por tajamar
 
 ## Patterns
 
